@@ -1,9 +1,9 @@
 module.exports = {
-  siteUrl: "https://utnupes.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://padenclothing.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "utnupes", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "padenclothing", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
     "utnupes", // This allows an alternative site description for meta data for pages.
 
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://utnupes.com/",
+        url: "https://padenclothing.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://utnupes.com/contact",
+        url: "https://padenclothing.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://utnupes.com/",
+        url: "https://padenclothing.com/",
       },
       {
         label: "Sitemap",
-        url: "https://utnupes.com/sitemap.xml",
+        url: "https://padenclothing.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://utnupes.com/contact",
+        url: "https://padenclothing.com/contact",
       },
       
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "utnupes",
+    title: "padenclothing",
     description:
-      "utnupes",
+      "padenclothing",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "utnupes",
+    title: "padenclothing",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "utnupes",
+  siteTitle: "padenclothing",
   siteDescription:
-    "utnupes",
+    "padenclothing",
   language: "he",
   logoUrl: "",
   iconUrl: "",
