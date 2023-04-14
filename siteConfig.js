@@ -3,21 +3,21 @@ module.exports = {
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "uiictg.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "uiictg", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "uiictg.com", // This allows an alternative site description for meta data for pages.
+    "utnupes", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "uiictg.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "uiictg", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "uiictg.com",
+    title: "uiictg",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -49,7 +49,7 @@ module.exports = {
         label: "יצירת קשר",
         url: "https://uiictg.com/contact",
       },
-     
+      
     ],
   },
   socialLinks: {
@@ -66,13 +66,13 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
+    title: "Contact Us",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "uiictg.com",
+    title: "uiictg",
     description:
-      "uiictg.com",
+      "uiictg",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "tedbakerasale",
+    title: "uiictg",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "uiictg.com",
+  siteTitle: "uiictg",
   siteDescription:
-    "uiictg.com",
+    "uiictg",
   language: "he",
   logoUrl: "",
   iconUrl: "",
