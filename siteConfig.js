@@ -18,26 +18,26 @@ module.exports = {
   subscribeWidget: {
     visible: false,
     title: "uiictg",
-    helpText: "הישארו מעודכנים",
-    successMessage: "תודה ההודעה נשלחה בהצלחה",
+    helpText: "Keep following",
+    successMessage: "Thank you The message was sent successfully",
   },
   header: {
     navigation: [
       {
-        label: "דף הבית",
+        label: "Homepage",
         url: "https://uiictg.com/",
       },
       {
-        label: "יצירת קשר",
+        label: "Contact",
         url: "https://uiictg.com/contact",
       },
     ],
   },
   footer: {
-    copyright: "כל הזכויות שמורות ",
+    copyright: "All rights reserved ",
     navigation: [
       {
-        label: "דף הבית",
+        label: "Homepage",
         url: "https://uiictg.com/",
       },
       {
@@ -46,7 +46,7 @@ module.exports = {
       },
       
       {
-        label: "יצירת קשר",
+        label: "Contact",
         url: "https://uiictg.com/contact",
       },
       
