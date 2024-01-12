@@ -19,7 +19,7 @@ module.exports = {
     visible: false,
     title: "uiictg",
     helpText: "Keep following",
-    successMessage: "תודה ההודעה נשלחה בהצלחה",
+    successMessage: "Thank you The message was sent successfully",
   },
   header: {
     navigation: [
